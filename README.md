@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Static website
 Basic beginners website Static mode
 ## Website Url:
+https://vikasmayya.github.io/NetflixReactApp/
+
 
 ## Available Scripts
 
