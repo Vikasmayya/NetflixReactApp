@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Basic React App
-#beginers website
-##Website Url:
+# Basic React App
+# Beginers website
+## Website Url:
 # Getting Started with Create React Appwerthe
 
 ## Available Scripts
