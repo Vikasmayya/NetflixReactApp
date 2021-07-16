@@ -1,11 +1,10 @@
-# Getting Started with Create React App
+# Basic React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Basic React App
-# Beginers website
+# Static website
+Basic beginners website Static mode
 ## Website Url:
-# Getting Started with Create React Appwerthe
 
 ## Available Scripts
 
